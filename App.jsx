@@ -349,7 +349,7 @@ export default function App() {
           <div className="foot-logo">日本コンシェルジュドクター協会</div>
           <p>JAPAN CONCIERGE DOCTOR ASSOCIATION</p>
           <p style={{ marginTop: "14px" }}>
-            <a href="プライバシーポリシー.html" style={{ color: "rgba(255,255,255,.8)" }}>
+            <a href="privacy.html" style={{ color: "rgba(255,255,255,.8)" }}>
               プライバシーポリシー
             </a>
           </p>
